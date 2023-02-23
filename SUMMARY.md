@@ -1,26 +1,20 @@
 # Table of contents
 
-* [比特币的诞生及影响](README.md)
-
-## 基础知识
-
-* [比特币](ji-chu-zhi-shi/bi-te-bi.md)
-* [数字货币及区块链新手入门](ji-chu-zhi-shi/shu-zi-huo-bi-ji-qu-kuai-lian-xin-shou-ru-men.md)
-* [数字货币概念板块](ji-chu-zhi-shi/shu-zi-huo-bi-gai-nian-ban-kuai.md)
+* [比特币横空出世](README.md)
 
 ## 投资理念
 
-* [战略方向](tou-zi-li-nian/zhan-lve-fang-xiang/README.md)
-  * [制定投资战略的基本逻辑](tou-zi-li-nian/zhan-lve-fang-xiang/zhi-ding-tou-zi-zhan-lve-de-ji-ben-luo-ji.md)
-  * [囤比特币](tou-zi-li-nian/zhan-lve-fang-xiang/dun-bi-te-bi/README.md)
-    * [囤比特币全集](https://btcdayu.gitbook.io/dayu/tou-zi-luo-ji/tun-bi-te-bi-quan-ji)
-  * [我的战略](tou-zi-li-nian/zhan-lve-fang-xiang/wo-de-zhan-lve.md)
-* [策略方法](tou-zi-li-nian/ce-lve-fang-fa/README.md)
-  * [币圈投资策略和仓位管理](tou-zi-li-nian/ce-lve-fang-fa/bi-quan-tou-zi-ce-lve-he-cang-wei-guan-li.md)
-  * [寻找潜力项目的思路](tou-zi-li-nian/ce-lve-fang-fa/xun-zhao-qian-li-xiang-mu-de-si-lu.md)
-  * [潜力项目的选择](tou-zi-li-nian/ce-lve-fang-fa/qian-li-xiang-mu-de-xuan-ze.md)
-  * [币圈的有效信息](tou-zi-li-nian/ce-lve-fang-fa/bi-quan-de-you-xiao-xin-xi.md)
-  * [思考碎片](tou-zi-li-nian/ce-lve-fang-fa/si-kao-sui-pian.md)
+* [构建投资理念](tou-zi-li-nian/gou-jian-tou-zi-li-nian.md)
+* [价投：囤比特币](tou-zi-li-nian/jia-tou-dun-bi-te-bi/README.md)
+  * [囤比特币全集](https://btcdayu.gitbook.io/dayu/tou-zi-luo-ji/tun-bi-te-bi-quan-ji)
+* [投资策略](tou-zi-li-nian/tou-zi-ce-lve/README.md)
+  * [我的买卖原则和仓位管理](tou-zi-li-nian/tou-zi-ce-lve/wo-de-mai-mai-yuan-ze-he-cang-wei-guan-li.md)
+* [投资逻辑](tou-zi-li-nian/tou-zi-luo-ji.md)
+* [思路方法](tou-zi-li-nian/si-lu-fang-fa/README.md)
+  * [寻找潜力项目的思路](tou-zi-li-nian/si-lu-fang-fa/xun-zhao-qian-li-xiang-mu-de-si-lu.md)
+  * [潜力项目的选择](tou-zi-li-nian/si-lu-fang-fa/qian-li-xiang-mu-de-xuan-ze.md)
+  * [币圈的有效信息](tou-zi-li-nian/si-lu-fang-fa/bi-quan-de-you-xiao-xin-xi.md)
+  * [思考碎片](tou-zi-li-nian/si-lu-fang-fa/si-kao-sui-pian.md)
 
 ## 市场观察
 
@@ -36,3 +30,9 @@
 ## 投资复盘
 
 * [投资复盘](tou-zi-fu-pan/tou-zi-fu-pan.md)
+
+## 基础知识
+
+* [比特币](ji-chu-zhi-shi/bi-te-bi.md)
+* [数字货币及区块链新手入门](ji-chu-zhi-shi/shu-zi-huo-bi-ji-qu-kuai-lian-xin-shou-ru-men.md)
+* [数字货币概念板块](ji-chu-zhi-shi/shu-zi-huo-bi-gai-nian-ban-kuai.md)
