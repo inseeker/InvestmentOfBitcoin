@@ -38,3 +38,11 @@
 * [比特币](ji-chu-zhi-shi/bi-te-bi.md)
 * [数字货币及区块链新手入门](ji-chu-zhi-shi/shu-zi-huo-bi-ji-qu-kuai-lian-xin-shou-ru-men.md)
 * [数字货币概念板块](ji-chu-zhi-shi/shu-zi-huo-bi-gai-nian-ban-kuai.md)
+
+## 读书笔记
+
+* [阅读思考进步](du-shu-bi-ji/yue-du-si-kao-jin-bu.md)
+
+## 币圈人物
+
+* [中本聪](bi-quan-ren-wu/zhong-ben-cong.md)
