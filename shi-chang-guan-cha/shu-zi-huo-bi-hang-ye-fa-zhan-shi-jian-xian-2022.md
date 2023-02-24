@@ -6,11 +6,53 @@
 写在前面：整理的目的在于养成每天关注行业发展的习惯。
 {% endhint %}
 
+**23/2/24**
+
+[Circle：Citizens Trust Bank将持有6500万美元的USDC现金储备](https://www.jinse.com/lives/336468.html)
+
+[Polygon zkEVM将于下周推出经审计的升级版测试网](https://www.jinse.com/lives/336461.html)
+
+[《富爸爸穷爸爸》作者：比特币的价值可持续，自己的比特币投资上涨300](https://www.jinse.com/lives/336457.html)%
+
+[欧洲央行：数字欧元应优先考虑在线、点对点支付](https://www.jinse.com/lives/336437.html)
+
+[加密货币每年的总耗电量在120至2400亿千瓦时之间](https://www.jinse.com/lives/336432.html)
+
+知情人士：软银集团不太可能在2023年上半年之前投资加密货币或其他区块链业务
+
+Waves创始人：Waves已经成为一个由独立项目组成的去中心化生态系统
+
+[迪拜多种商品交易中心与Web3公司TDeFi合作推出新的加速器计划](https://www.jinse.com/lives/336415.html)
+
+[Optimism上线 “超级链”Superchain页面：过去2年已为用户节省26.9亿美元链上费用](https://www.jinse.com/lives/336363.html)
+
+[哥伦比亚成为世界上首批在Meta元宇宙中举办法庭听证会的国家](https://www.jinse.com/lives/336351.html)
+
+[报告：约有136家美国银行正计划或已提供加密资产相关服务](https://www.jinse.com/lives/336329.html)
 
 
+
+
+
+**23/2/23**
+
+[隐私技术初创公司Beldex完成2500万美元融资](https://www.jinse.com/lives/336317.html)
+
+[Web3社交应用Towns完成2550万美元A轮融资](https://www.jinse.com/lives/336311.html)
+
+[Binance：部分澳大利亚用户被错误归类并关闭头寸，将赔偿用户损失](https://www.jinse.com/lives/336304.html)
+
+[CZ：加密货币和法币之间不是战斗](https://www.jinse.com/lives/336293.html)
+
+[印度财政部与阿根廷寻求在货币互换和开发数字支付软件问题上的合作](https://www.jinse.com/lives/336289.html)
+
+[德国第二大资产银行DZ Bank已聘请Metaco提供数字资产托管服务](https://www.jinse.com/lives/336264.html)
+
+[加拿大金融公司Evolve已任命Coinbase为数字资产子托管人](https://www.jinse.com/lives/336201.html)
+
+[Twitter已开始测试添加Twitter Coins功能](https://www.jinse.com/lives/336191.html)\
 \
-\
-23/2/22\
+**23/2/22**\
 22年10月31日，香港特区政府发表《有关虚拟资产在港发展的政策宣言》。\
 23年1月9-10日，香港Web3创新者峰会在香港数码港举办。\
 23年2月22日，香港23-24年度财政预算案，将拨款五千万港元加速发展Web3生态圈。\

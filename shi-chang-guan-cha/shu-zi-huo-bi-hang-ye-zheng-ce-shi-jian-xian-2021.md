@@ -4,13 +4,43 @@
 写在前面：整理的目的在于养成每天关注行业发展的习惯。
 {% endhint %}
 
-\
-23/2/23\
+**23/2/24**
+
+[分析师：利率市场认为美联储下个月会议加息50个基点的风险正在上升](https://www.jinse.com/lives/336460.html)
+
+[交易员预计：7月份联邦基金终端利率预期从此前的5.38%左右升至5.4%左右](https://www.jinse.com/lives/336459.html)
+
+[FATF同意推动全球加密规范实施的行动计划](https://www.jinse.com/lives/336458.html)
+
+​IMF：加密货币不应被授予法定货币地位，需要联合监管框架\
+[HashKey Group获香港证监会批准，可开展虚拟资产场外交易业务(OTC)](https://www.jinse.com/lives/336402.html)
+
+[韩国金融监管机构正调查该国加密交易所的质押服务](https://www.jinse.com/lives/336394.html)\
+[Circle CEO：不认为美SEC是稳定币的监管机构](https://www.jinse.com/lives/336368.html)
+
+[美国蒙大拿州以37票对13票通过比特币“挖矿”法案](https://www.jinse.com/lives/336355.html)
+
+[美联储：银行需关注加密货币及相关资产交易的固有风险](https://www.jinse.com/lives/336352.html)\
 [美联储会议纪要：几乎所有美联储官员都支持加息25个基点](https://www.jinse.com/lives/336169.html)\
 [加拿大加密新法规要求交易平台遵守投资者保护承诺](https://www.jinse.com/lives/336168.html)\
-\
-23/2/22 \
-[香港立法会议员吴杰庄：预算案内容体现了港府对于Web3发展的决心](https://www.jinse.com/lives/336154.html)\
+[澳大利亚证券和投资委员会正在审查币安在当地的衍生品业务](https://www.jinse.com/lives/336395.html)
+
+**23/2/23**
+
+[美国银行业监管机构：加密实体为客户利益而存入的存款以及稳定币储备可能会波动](https://www.jinse.com/lives/336319.html)\
+[摩根大通：SEC在数字资产监管方面处于主导地位，预计将采取更多监管](https://www.jinse.com/lives/336295.html)
+
+[台湾立法委员：台湾必须在5月16日之前授权中央机构监督加密货币](https://www.jinse.com/lives/336288.html)\
+[韩国金融当局官员：正考虑规范币安在韩国内的业务](https://www.jinse.com/lives/336266.html)
+
+美SEC专员：国会正在积极考虑关于稳定币的问题
+
+[香港立法会议员黄锦辉：Web3.0为财政预算案中提到的三个重大发展方向之一](https://www.jinse.com/lives/336252.html)[\
+印度财政部：印度财长和耶伦讨论加密货币资产问题](https://www.jinse.com/lives/336248.html)\
+[美联储会议纪要：加密行业的失败对银行系统的影响有限](https://www.jinse.com/lives/336170.html)\
+[加拿大加密新法规要求交易平台遵守投资者保护承诺](https://www.jinse.com/lives/336168.html)\
+**23/2/22** \
+****[香港立法会议员吴杰庄：预算案内容体现了港府对于Web3发展的决心](https://www.jinse.com/lives/336154.html)\
 [Nano Labs创始人Jack孔：香港给了Web3创业者很好的土壤](https://www.jinse.com/lives/336143.html)\
 22年10月31日，香港特区政府发表《有关虚拟资产在港发展的政策宣言》。\
 23年1月9-10日，香港Web3创新者峰会在香港数码港举办。\

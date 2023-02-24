@@ -18,14 +18,15 @@
 
 ## 市场观察
 
+* [项目汇总](shi-chang-guan-cha/xiang-mu-hui-zong.md)
+* [数字货币行业发展时间线(2022-)](shi-chang-guan-cha/shu-zi-huo-bi-hang-ye-fa-zhan-shi-jian-xian-2022.md)
+* [数字货币行业政策时间线(2021-)](shi-chang-guan-cha/shu-zi-huo-bi-hang-ye-zheng-ce-shi-jian-xian-2021.md)
 * [政策文件](shi-chang-guan-cha/zheng-ce-wen-jian/README.md)
   * [有關香港虛擬資產發展的政策宣言](https://www.info.gov.hk/gia/general/202210/31/P2022103000455.htm)
 * [重要会议](shi-chang-guan-cha/zhong-yao-hui-yi/README.md)
   * [2023 香港 Web3 创新者峰会](https://news.marsbit.cc/20230110091841473494.html)
 * [市场判断](shi-chang-guan-cha/shi-chang-pan-duan/README.md)
-  * [缓慢的牛市](shi-chang-guan-cha/shi-chang-pan-duan/huan-man-de-niu-shi.md)
-* [数字货币行业发展时间线(2022-)](shi-chang-guan-cha/shu-zi-huo-bi-hang-ye-fa-zhan-shi-jian-xian-2022.md)
-* [数字货币行业政策时间线(2021-)](shi-chang-guan-cha/shu-zi-huo-bi-hang-ye-zheng-ce-shi-jian-xian-2021.md)
+  * [丰富 和 多元](shi-chang-guan-cha/shi-chang-pan-duan/feng-fu-he-duo-yuan.md)
 
 ## 投资复盘
 
