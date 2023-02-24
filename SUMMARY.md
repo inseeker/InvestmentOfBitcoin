@@ -2,19 +2,20 @@
 
 * [比特币横空出世](README.md)
 
-## 投资理念
+## 投资理论
 
-* [构建投资理念](tou-zi-li-nian/gou-jian-tou-zi-li-nian.md)
-* [价投：囤比特币](tou-zi-li-nian/zhan-lve-fang-xiang/dun-bi-te-bi/README.md)
-  * [囤比特币全集](https://btcdayu.gitbook.io/dayu/tou-zi-luo-ji/tun-bi-te-bi-quan-ji)
-* [投资策略](tou-zi-li-nian/tou-zi-ce-lve/README.md)
-  * [我的买卖原则和仓位管理](tou-zi-li-nian/ce-lve-fang-fa/bi-quan-tou-zi-ce-lve-he-cang-wei-guan-li.md)
-* [投资逻辑](tou-zi-li-nian/tou-zi-luo-ji.md)
-* [思路方法](tou-zi-li-nian/ce-lve-fang-fa/README.md)
-  * [寻找潜力项目的思路](tou-zi-li-nian/ce-lve-fang-fa/xun-zhao-qian-li-xiang-mu-de-si-lu.md)
-  * [潜力项目的选择](tou-zi-li-nian/ce-lve-fang-fa/qian-li-xiang-mu-de-xuan-ze.md)
-  * [币圈的有效信息](tou-zi-li-nian/ce-lve-fang-fa/bi-quan-de-you-xiao-xin-xi.md)
-  * [思考碎片](tou-zi-li-nian/ce-lve-fang-fa/si-kao-sui-pian.md)
+* [构建投资理论的理论](tou-zi-li-lun/gou-jian-tou-zi-li-lun-de-li-lun.md)
+* [投资理念：市场认知和价值观](tou-zi-li-lun/tou-zi-li-nian-shi-chang-ren-zhi-he-jia-zhi-guan.md)
+* [投资策略](tou-zi-li-lun/tou-zi-ce-lve/README.md)
+  * [买卖原则和仓位管理](tou-zi-li-lun/tou-zi-ce-lve/mai-mai-yuan-ze-he-cang-wei-guan-li.md)
+* [投资逻辑](tou-zi-li-lun/tou-zi-luo-ji.md)
+* [投资思路和方法](tou-zi-li-lun/tou-zi-si-lu-he-fang-fa/README.md)
+  * [寻找潜力项目的思路](tou-zi-li-lun/tou-zi-si-lu-he-fang-fa/xun-zhao-qian-li-xiang-mu-de-si-lu.md)
+  * [潜力项目的选择](tou-zi-li-lun/tou-zi-si-lu-he-fang-fa/qian-li-xiang-mu-de-xuan-ze.md)
+  * [币圈的有效信息](tou-zi-li-lun/tou-zi-si-lu-he-fang-fa/bi-quan-de-you-xiao-xin-xi.md)
+  * [思考碎片](tou-zi-li-lun/tou-zi-si-lu-he-fang-fa/si-kao-sui-pian.md)
+* [来自KOL、Trader的分享](tou-zi-li-lun/lai-zi-koltrader-de-fen-xiang.md)
+* [投资理论集](tou-zi-li-lun/tou-zi-li-lun-ji.md)
 
 ## 市场观察
 
@@ -26,7 +27,7 @@
 * [重要会议](shi-chang-guan-cha/zhong-yao-hui-yi/README.md)
   * [2023 香港 Web3 创新者峰会](https://news.marsbit.cc/20230110091841473494.html)
 * [市场判断](shi-chang-guan-cha/shi-chang-pan-duan/README.md)
-  * [丰富 和 多元](shi-chang-guan-cha/shi-chang-pan-duan/feng-fu-he-duo-yuan.md)
+  * [丰富 和 多元](shi-chang-guan-cha/shi-chang-pan-duan/huan-man-de-niu-shi.md)
 
 ## 投资复盘
 
