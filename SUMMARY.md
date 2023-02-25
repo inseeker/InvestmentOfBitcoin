@@ -15,7 +15,7 @@
   * [潜力项目的选择](tou-zi-li-lun/tou-zi-si-lu-he-fang-fa/qian-li-xiang-mu-de-xuan-ze.md)
   * [币圈的有效信息](tou-zi-li-lun/tou-zi-si-lu-he-fang-fa/bi-quan-de-you-xiao-xin-xi.md)
   * [思考碎片](tou-zi-li-lun/tou-zi-si-lu-he-fang-fa/si-kao-sui-pian.md)
-* [来自KOL、Trader的分享](tou-zi-li-lun/lai-zi-koltrader-de-fen-xiang.md)
+* [Trader、KOL语录](tou-zi-li-lun/traderkol-yu-lu.md)
 * [投资理论集](tou-zi-li-lun/tou-zi-li-lun-ji.md)
 
 ## 市场观察
