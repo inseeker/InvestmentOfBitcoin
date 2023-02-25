@@ -21,12 +21,12 @@
 
 * [每日资讯 政策](shi-chang-guan-cha/mei-ri-zi-xun-zheng-ce.md)
 * [每日资讯 发展](shi-chang-guan-cha/mei-ri-zi-xun-fa-zhan.md)
-* [项目汇总](shi-chang-guan-cha/xiang-mu-hui-zong.md)
+* [项目分类 汇总](shi-chang-guan-cha/xiang-mu-fen-lei-hui-zong.md)
+* [市场趋势判断](shi-chang-guan-cha/shi-chang-pan-duan/README.md)
 * [政策文件](shi-chang-guan-cha/zheng-ce-wen-jian/README.md)
   * [有關香港虛擬資產發展的政策宣言](https://www.info.gov.hk/gia/general/202210/31/P2022103000455.htm)
 * [重要会议](shi-chang-guan-cha/zhong-yao-hui-yi/README.md)
   * [2023 香港 Web3 创新者峰会](https://news.marsbit.cc/20230110091841473494.html)
-* [市场趋势判断](shi-chang-guan-cha/shi-chang-qu-shi-pan-duan.md)
 
 ## 投资复盘
 
