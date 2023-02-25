@@ -5,6 +5,7 @@
 ## 投资理论
 
 * [构建投资理论的理论](tou-zi-li-lun/gou-jian-tou-zi-li-lun-de-li-lun.md)
+* [投资思路 方法 逻辑 策略](tou-zi-li-lun/tou-zi-si-lu-fang-fa-luo-ji-ce-lve.md)
 * [投资理念：市场认知和价值观](tou-zi-li-lun/tou-zi-li-nian-shi-chang-ren-zhi-he-jia-zhi-guan.md)
 * [投资策略](tou-zi-li-lun/tou-zi-ce-lve/README.md)
   * [买卖原则和仓位管理](tou-zi-li-lun/tou-zi-ce-lve/mai-mai-yuan-ze-he-cang-wei-guan-li.md)
