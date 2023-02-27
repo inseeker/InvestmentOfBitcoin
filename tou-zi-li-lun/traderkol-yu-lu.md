@@ -1,4 +1,4 @@
-# 来自KOL、Trader的分享
+# Trader、KOL语录
 
 本文记录币圈一些较知名、活跃的KOL、Trader关于投资的看法。以供参考学习。
 
@@ -95,7 +95,7 @@
 
 [比特皇回来了](https://weibo.com/u/7617079861)
 
-#### 比特皇
+<figure><img src="../.gitbook/assets/bth.png" alt=""><figcaption></figcaption></figure>
 
 低买高卖；止损认错；抓大趋势；忍受回撤；杀伐果断；独立思考。\
 与时间做朋友；别人贪婪时我恐惧，别人恐惧时我贪婪；\

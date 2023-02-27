@@ -6,13 +6,19 @@
 内容摘自 [金色财经](https://www.jinse.com/)。个人投资学习笔记。非投资建议。不以盈利为目的。
 {% endhint %}
 
+#### 23/2/28
+
+#### [英国银行业监管机构将提出有关发行和持有加密货币的规则](https://www.jinse.com/lives/336787.html)
+
 #### 23/2/27
+
+[美国伊利诺伊州将效仿纽约制定加密货币监管制度](https://www.jinse.com/lives/336772.html)
+
+[特拉维夫证券交易所计划允许非银行成员的客户进行加密货币交易](https://www.jinse.com/lives/336768.html)
 
 [超过200个司法管辖区同意实施FATF加密货币标准](https://www.jinse.com/lives/336746.html)
 
 [美SEC主席：“除Bitcoin之外的所有加密货币”都是证券](https://www.jinse.com/lives/336667.html)
-
-
 
 里探评说：加密货币 全球性监管的趋势。
 

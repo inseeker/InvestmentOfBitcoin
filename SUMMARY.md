@@ -31,7 +31,7 @@
 
 ## 投资复盘
 
-* [投资复盘](tou-zi-fu-pan/tou-zi-fu-pan.md)
+* [随时记录](tou-zi-fu-pan/sui-shi-ji-lu.md)
 
 ## 基础知识
 
@@ -39,9 +39,9 @@
 * [数字货币及区块链新手入门](ji-chu-zhi-shi/shu-zi-huo-bi-ji-qu-kuai-lian-xin-shou-ru-men.md)
 * [数字货币概念板块](ji-chu-zhi-shi/shu-zi-huo-bi-gai-nian-ban-kuai.md)
 
-## 读书笔记
+## 阅读笔记
 
-* [阅读思考进步](du-shu-bi-ji/yue-du-si-kao-jin-bu.md)
+* [阅读思考进步](yue-du-bi-ji/yue-du-si-kao-jin-bu.md)
 
 ## 币圈人物
 

@@ -8,7 +8,13 @@
 
 
 
+#### 23/2/28
+
+[去中心化社交协议Nostr账户总量突破300万](https://www.jinse.com/lives/336784.html)
+
 #### 23/2/27
+
+[英格兰银行官员：英国央行和财政部正探索类似于比特币的央行数字货币Britcoin](https://www.jinse.com/lives/336753.html)
 
 [Alchemy Pay获印尼经营汇款和资金转账牌照](https://www.jinse.com/lives/336739.html)
 
