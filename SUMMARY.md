@@ -28,10 +28,12 @@
   * [有關香港虛擬資產發展的政策宣言](https://www.info.gov.hk/gia/general/202210/31/P2022103000455.htm)
 * [重要会议](shi-chang-guan-cha/zhong-yao-hui-yi/README.md)
   * [2023 香港 Web3 创新者峰会](https://news.marsbit.cc/20230110091841473494.html)
+* [公众情绪](shi-chang-guan-cha/gong-zhong-qing-xu.md)
 
 ## 投资复盘
 
-* [随时记录](tou-zi-fu-pan/sui-shi-ji-lu.md)
+* [思考碎片](tou-zi-fu-pan/si-kao-sui-pian.md)
+* [经验教训](tou-zi-fu-pan/jing-yan-jiao-xun.md)
 
 ## 基础知识
 
