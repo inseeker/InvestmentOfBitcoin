@@ -6,7 +6,17 @@
 内容摘自 [金色财经](https://www.jinse.com/)。个人投资学习笔记。非投资建议。不以盈利为目的。
 {% endhint %}
 
-#### **23/2/25**
+#### 23/2/27
+
+[超过200个司法管辖区同意实施FATF加密货币标准](https://www.jinse.com/lives/336746.html)
+
+[美SEC主席：“除Bitcoin之外的所有加密货币”都是证券](https://www.jinse.com/lives/336667.html)
+
+
+
+里探评说：加密货币 全球性监管的趋势。
+
+**23/2/25**
 
 [美财长耶伦：未建议彻底禁止加密活动，但需建立强有力的监管框架](https://www.jinse.com/lives/336548.html)\
 [印度财长：欢迎G20支持建立协调一致的加密货币全球政策](https://www.jinse.com/lives/336532.html)

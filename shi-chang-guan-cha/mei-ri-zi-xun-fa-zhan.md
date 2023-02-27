@@ -6,7 +6,26 @@
 内容摘自 [金色财经](https://www.jinse.com/)。个人投资学习笔记。非投资建议。不以盈利为目的。
 {% endhint %}
 
-#### **23/2/25**
+
+
+#### 23/2/27
+
+[Alchemy Pay获印尼经营汇款和资金转账牌照](https://www.jinse.com/lives/336739.html)
+
+[Telefónica与微软VR平台合作，计划在元宇宙中开启虚拟体验](https://www.jinse.com/lives/336659.html)
+
+里探评说：Alchemy Pay一直干活的项目。Google Pay、Apple Pay、Visa的合作等。
+
+#### 23/2/26
+
+[Raoul Pal：在完全数字化的世界中，NFT确实是价值、所有权、ID和合同的基础构建块](https://www.jinse.com/lives/336639.html)****
+
+****[SWIFT ISO 20022支付系统升级或对银行、数字货币等产生重要影响](https://www.jinse.com/lives/336623.html)\
+
+
+****
+
+**23/2/25**
 
 [印度尼西亚计划建立国家支持的加密货币交易所](https://www.jinse.com/lives/336512.html)
 
