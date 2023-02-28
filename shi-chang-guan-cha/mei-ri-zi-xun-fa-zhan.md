@@ -10,6 +10,11 @@
 
 #### 23/2/28
 
+[Visa与万事达卡暂停新的加密货币合作伙伴关系](https://www.jinse.com/lives/336906.html)
+
+[韩国Kolon集团将与币安成立合资公司，与当局合作建立虚拟资产交易平台](https://www.jinse.com/lives/336825.html)\
+
+
 [去中心化社交协议Nostr账户总量突破300万](https://www.jinse.com/lives/336784.html)
 
 #### 23/2/27

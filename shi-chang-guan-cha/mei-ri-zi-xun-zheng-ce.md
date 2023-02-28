@@ -8,7 +8,9 @@
 
 #### 23/2/28
 
-#### [英国银行业监管机构将提出有关发行和持有加密货币的规则](https://www.jinse.com/lives/336787.html)
+[北京市场监督管理局：不得宣传虚拟货币及相关交易](https://www.jinse.com/lives/336898.html)
+
+[英国银行业监管机构将提出有关发行和持有加密货币的规则](https://www.jinse.com/lives/336787.html)
 
 #### 23/2/27
 
