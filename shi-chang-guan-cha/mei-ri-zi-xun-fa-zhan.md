@@ -6,14 +6,23 @@
 内容摘自 [金色财经](https://www.jinse.com/)。个人投资学习笔记。非投资建议。不以盈利为目的。
 {% endhint %}
 
+#### 23/3/1
 
+[The Sandbox计划于年底前推出DAO来管理元宇宙业务](https://www.jinse.com/lives/337076.html)
+
+[俄罗斯能源部副部长：西伯利亚大规模开放比特币挖矿中心](https://www.jinse.com/lives/337061.html)
+
+[风投机构DWF Labs宣布向Conflux投资1000万美元](https://www.jinse.com/lives/337005.html)
+
+[Visa否认将暂停与加密公司合作，称将继续投资加密领域](https://www.jinse.com/lives/336958.html)
 
 #### 23/2/28
 
+[Coinbase发起“Crypto435”倡导运动，将在美国435个国会选区推进支持加密政策](https://www.jinse.com/lives/336933.html)
+
 [Visa与万事达卡暂停新的加密货币合作伙伴关系](https://www.jinse.com/lives/336906.html)
 
-[韩国Kolon集团将与币安成立合资公司，与当局合作建立虚拟资产交易平台](https://www.jinse.com/lives/336825.html)\
-
+[韩国Kolon集团将与币安成立合资公司，与当局合作建立虚拟资产交易平台](https://www.jinse.com/lives/336825.html)
 
 [去中心化社交协议Nostr账户总量突破300万](https://www.jinse.com/lives/336784.html)
 
