@@ -8,6 +8,8 @@
 
 #### 23/3/3
 
+[西班牙税务机构已在今年税收季新指导方针中纳入加密货币](https://www.jinse.com/lives/337347.html)
+
 [SEC主席：加密货币和证券法可以兼容](https://www.jinse.com/lives/337324.html)
 
 [韩国金融当局拒绝“允许证券公司发放加密资产实名账户”的提议](https://www.jinse.com/lives/337319.html)

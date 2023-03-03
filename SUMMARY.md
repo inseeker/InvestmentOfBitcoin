@@ -46,7 +46,7 @@
 
 ## 阅读笔记
 
-* [杰西·利弗莫尔交易启示、语录及心法](yue-du-bi-ji/jie-xi-li-fu-mo-er-jiao-yi-qi-shi-yu-lu-ji-xin-fa.md)
+* [杰西·利弗莫尔交易学习](yue-du-bi-ji/jie-xi-li-fu-mo-er-jiao-yi-xue-xi.md)
 * [缠中说缠](yue-du-bi-ji/chan-zhong-shuo-chan/README.md)
   * [顶翻东西经济学](yue-du-bi-ji/chan-zhong-shuo-chan/ding-fan-dong-xi-jing-ji-xue.md)
   * [投资理念](yue-du-bi-ji/chan-zhong-shuo-chan/tou-zi-li-nian.md)
@@ -56,3 +56,7 @@
 ## 币圈人物
 
 * [中本聪](bi-quan-ren-wu/zhong-ben-cong.md)
+
+## 其他杂记
+
+* [出金](qi-ta-za-ji/chu-jin.md)
