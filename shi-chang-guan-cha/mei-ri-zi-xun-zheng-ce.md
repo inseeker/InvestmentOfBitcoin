@@ -6,6 +6,16 @@
 内容摘自 [金色财经](https://www.jinse.com/)。个人投资学习笔记。非投资建议。不以盈利为目的。
 {% endhint %}
 
+#### 23/3/3
+
+[SEC主席：加密货币和证券法可以兼容](https://www.jinse.com/lives/337324.html)
+
+[韩国金融当局拒绝“允许证券公司发放加密资产实名账户”的提议](https://www.jinse.com/lives/337319.html)
+
+[美SEC主席发文称正起草新规则，加密交易平台或将不是合格托管方](https://www.jinse.com/lives/337272.html)
+
+里探评说：加密货币 在美国监管的不确定性。
+
 #### 23/2/28
 
 [北京市场监督管理局：不得宣传虚拟货币及相关交易](https://www.jinse.com/lives/336898.html)

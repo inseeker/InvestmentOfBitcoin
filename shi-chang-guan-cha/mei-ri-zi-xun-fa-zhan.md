@@ -6,6 +6,24 @@
 内容摘自 [金色财经](https://www.jinse.com/)。个人投资学习笔记。非投资建议。不以盈利为目的。
 {% endhint %}
 
+#### 23/3/3
+
+[Finam Management将推出俄罗斯首个投资加密矿企的共同基金](https://www.jinse.com/lives/337321.html)
+
+[Silvergate主要合作伙伴纷纷切断与其业务往来](https://www.jinse.com/lives/337240.html)
+
+[Block推出新的服务提供商，使比特币闪电网络更加可靠](https://www.jinse.com/lives/337227.html)
+
+[彭博社：汇丰银行、Nationwide禁止英国客户通过信用卡购买加密货币](https://www.jinse.com/lives/337226.html)
+
+里探评说：行情冷清、监管不明、各势力博弈。加密行业的基础设施、dapp、应用场景还需要不断建设。
+
+#### 23/3/2
+
+[加密货币金融公司Silvergate警告可能无法持续经营](https://www.jinse.com/lives/337200.html)
+
+[数家日本银行将在“Japan Open Chain”上测试稳定币](https://www.jinse.com/lives/337165.html)
+
 #### 23/3/1
 
 [The Sandbox计划于年底前推出DAO来管理元宇宙业务](https://www.jinse.com/lives/337076.html)
