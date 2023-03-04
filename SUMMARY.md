@@ -46,6 +46,7 @@
 
 ## 阅读笔记
 
+* [书单](yue-du-bi-ji/shu-dan.md)
 * [杰西·利弗莫尔交易学习](yue-du-bi-ji/jie-xi-li-fu-mo-er-jiao-yi-xue-xi.md)
 * [缠中说缠](yue-du-bi-ji/chan-zhong-shuo-chan/README.md)
   * [顶翻东西经济学](yue-du-bi-ji/chan-zhong-shuo-chan/ding-fan-dong-xi-jing-ji-xue.md)
