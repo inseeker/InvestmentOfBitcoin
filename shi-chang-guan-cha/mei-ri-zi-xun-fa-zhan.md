@@ -6,6 +6,14 @@
 内容摘自 [金色财经](https://www.jinse.com/)。个人投资学习笔记。非投资建议。不以盈利为目的。
 {% endhint %}
 
+#### 23/3/4
+
+[法官驳回SEC等监管机构对Binance US收购Voyager的反对意见](https://www.jinse.com/lives/337427.html)
+
+[西班牙弗拉门戈海滩出现广告标语“用Bitcoin买房子”](https://www.jinse.com/lives/337438.html)
+
+里探评说：美国在监管上，不是一刀切。在有博弈空间的环境中，新兴事物的发展是有一定机会的。
+
 #### 23/3/3
 
 [Finam Management将推出俄罗斯首个投资加密矿企的共同基金](https://www.jinse.com/lives/337321.html)

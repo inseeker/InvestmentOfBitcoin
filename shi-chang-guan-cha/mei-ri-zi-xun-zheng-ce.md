@@ -6,7 +6,13 @@
 内容摘自 [金色财经](https://www.jinse.com/)。个人投资学习笔记。非投资建议。不以盈利为目的。
 {% endhint %}
 
+#### 23/3/4
+
+[美国立法者重新提出法案，强制加密矿企披露温室气体排放量](https://www.jinse.com/lives/337382.html)
+
 #### 23/3/3
+
+[欧盟新反洗钱法案规定NFT平台等受到该法规约束](https://www.jinse.com/lives/337368.html)
 
 [西班牙税务机构已在今年税收季新指导方针中纳入加密货币](https://www.jinse.com/lives/337347.html)
 
