@@ -60,3 +60,4 @@
 ## 其他杂记
 
 * [出金](qi-ta-za-ji/chu-jin.md)
+* [区块链黑暗森林自救手册](qi-ta-za-ji/qu-kuai-lian-hei-an-sen-lin-zi-jiu-shou-ce.md)
