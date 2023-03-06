@@ -6,6 +6,20 @@
 内容摘自 [金色财经](https://www.jinse.com/)。个人投资学习笔记。非投资建议。不以盈利为目的。
 {% endhint %}
 
+#### 23/3/6
+
+[币安或寻求TrueUSD作为稳定币替代解决方案](https://www.jinse.com/lives/337640.html)
+
+[Bybit推出万事达卡支持的加密借记卡](https://www.jinse.com/lives/337636.html)
+
+[Kraken首席法务官：正在加快推出银行计划](https://www.jinse.com/lives/337626.html)
+
+[Ripple：半数支付公司认为商家将在1至3年内接受加密货币结算](https://www.jinse.com/lives/337551.html)
+
+[萨尔瓦多总统：比特币在全世界都被使用](https://www.jinse.com/lives/337530.html)
+
+里探评说：加密货币行业与传统金融的融合在加速。当加密货币行业成为主流时，普通人的机会将减少。当前还是有红利。
+
 #### 23/3/4
 
 [法官驳回SEC等监管机构对Binance US收购Voyager的反对意见](https://www.jinse.com/lives/337427.html)
