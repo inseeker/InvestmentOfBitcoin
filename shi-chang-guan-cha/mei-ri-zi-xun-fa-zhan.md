@@ -8,6 +8,8 @@
 
 #### 23/3/6
 
+[知情人士：亚马逊将于4月24日上线NFT平台](https://www.jinse.com/lives/337646.html)
+
 [币安或寻求TrueUSD作为稳定币替代解决方案](https://www.jinse.com/lives/337640.html)
 
 [Bybit推出万事达卡支持的加密借记卡](https://www.jinse.com/lives/337636.html)
