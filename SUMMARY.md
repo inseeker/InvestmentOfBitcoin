@@ -1,6 +1,7 @@
 # Table of contents
 
 * [比特币横空出世](README.md)
+* [这精神振奋人心](zhe-jing-shen-zhen-fen-ren-xin.md)
 
 ## 投资理论
 
