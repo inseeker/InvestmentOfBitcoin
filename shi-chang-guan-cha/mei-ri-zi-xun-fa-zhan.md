@@ -6,6 +6,16 @@
 内容摘自 [金色财经](https://www.jinse.com/)。个人投资学习笔记。非投资建议。不以盈利为目的。
 {% endhint %}
 
+#### 23/3/7
+
+[Mysten Labs与阿里云签署合作协议](https://www.jinse.com/lives/337766.html)
+
+[拉美合规加密交易平台TruBit开通墨西哥法币通道](https://www.jinse.com/lives/337732.html)
+
+[新火科技CEO杜均：监管合规和DeFi是未来行业的两个突破点](https://www.jinse.com/lives/337730.html)
+
+[韩国央行行长：对16%的韩国人口拥有加密货币账户表示担忧](https://www.jinse.com/lives/337712.html)
+
 #### 23/3/6
 
 [知情人士：亚马逊将于4月24日上线NFT平台](https://www.jinse.com/lives/337646.html)

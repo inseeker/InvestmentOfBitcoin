@@ -6,6 +6,14 @@
 内容摘自 [金色财经](https://www.jinse.com/)。个人投资学习笔记。非投资建议。不以盈利为目的。
 {% endhint %}
 
+#### 23/3/7
+
+[泰国为发行投资代币的公司提供税收减免](https://www.jinse.com/lives/337767.html)
+
+[美国OCC负责人：在获得联邦监督之前，不能信任加密公司](https://www.jinse.com/lives/337684.html)
+
+[印度财政部长：加密货币监管已成为G20财政部长和央行行长的主要优先事](https://www.jinse.com/lives/337682.html)
+
 #### 23/3/6
 
 [美国犹他州立法机关已通过DAO法案，将于2024年生效](https://www.jinse.com/lives/337620.html)
