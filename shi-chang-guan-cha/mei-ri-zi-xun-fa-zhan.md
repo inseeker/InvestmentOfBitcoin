@@ -6,6 +6,12 @@
 内容摘自 [金色财经](https://www.jinse.com/)。个人投资学习笔记。非投资建议。不以盈利为目的。
 {% endhint %}
 
+#### 23/3/8
+
+[亚马逊将在数字市场上推出首批15个NFT系列，可支持信用卡支付](https://www.jinse.com/lives/337808.html)
+
+里探评说：数字资产走向主流的形式必将是丰富的。
+
 #### 23/3/7
 
 [Mysten Labs与阿里云签署合作协议](https://www.jinse.com/lives/337766.html)
