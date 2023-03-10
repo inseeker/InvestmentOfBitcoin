@@ -6,7 +6,13 @@
 内容摘自 [金色财经](https://www.jinse.com/)。个人投资学习笔记。非投资建议。不以盈利为目的。
 {% endhint %}
 
-#### 23/3/8
+#### 23/3/9
+
+[俄罗斯联邦将加密矿工拒绝申报数字资产的行为定为犯罪](https://www.jinse.com/lives/338092.html)
+
+[美联储副主席：美联储组建了一个研究加密货币创新的团队](https://www.jinse.com/lives/338124.html)
+
+[美国CFTC主席：以太坊是仅次于比特币的第二大加密货币，是一种商品](https://www.jinse.com/lives/338004.html)
 
 #### 23/3/7
 

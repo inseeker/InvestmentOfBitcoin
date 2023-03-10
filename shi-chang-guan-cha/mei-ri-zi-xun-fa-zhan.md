@@ -6,7 +6,25 @@
 内容摘自 [金色财经](https://www.jinse.com/)。个人投资学习笔记。非投资建议。不以盈利为目的。
 {% endhint %}
 
-#### 23/3/8
+#### 23/3/11
+
+[美国联邦存款保险公司：SVB银行被加州监管机构关闭](https://www.jinse.com/lives/338297.html)
+
+#### 23/3/10
+
+[Meta正探索去中心化社交网络应用程序](https://www.jinse.com/lives/338218.html)
+
+[BitMEX创始人：鲍威尔可能已经刺破美国的银行系统危机](https://www.jinse.com/lives/338183.html)
+
+[硅谷“风投教父”建议从硅谷银行撤资，硅谷银行母公司股价大跌60%](https://www.jinse.com/lives/338172.html)
+
+里探评说：美联储加息，给一些银行带来了危机。
+
+#### 23/3/9
+
+[Mt.Gox最大债权人计划保留归还的比特币](https://www.jinse.com/lives/337988.html)
+
+#### 23/3/7
 
 [亚马逊将在数字市场上推出首批15个NFT系列，可支持信用卡支付](https://www.jinse.com/lives/337808.html)
 
