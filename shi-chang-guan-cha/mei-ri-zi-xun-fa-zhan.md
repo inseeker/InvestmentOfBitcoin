@@ -8,7 +8,21 @@
 
 #### 23/3/11
 
+[USDC现报价0.8859美元，24小时跌幅达11.5%](https://www.jinse.com/lives/338395.html)
+
+[Circle：在硅谷银行中有 33 亿美元存款](https://www.jinse.com/lives/338362.html)
+
+[马斯克：对 Twitter 收购硅谷银行持开放态度](https://www.jinse.com/lives/338357.html)
+
+[BlockFi 在硅谷银行拥有 2.27 亿美元的“不受保护”资金](https://www.jinse.com/lives/338329.html)
+
+[德州出台法案，鼓励和资助在废弃的油气井中开采比特币](https://www.jinse.com/lives/338320.html)
+
+[俄罗斯将于7月允许比特币和加密货币的国际贸易](https://www.jinse.com/lives/338306.html)
+
 [美国联邦存款保险公司：SVB银行被加州监管机构关闭](https://www.jinse.com/lives/338297.html)
+
+里探评说：硅谷银行的挤兑风险，波及了一系列与其有合作关系的公司。
 
 #### 23/3/10
 
