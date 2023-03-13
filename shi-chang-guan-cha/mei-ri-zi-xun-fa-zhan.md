@@ -6,6 +6,22 @@
 内容摘自 [金色财经](https://www.jinse.com/)。个人投资学习笔记。非投资建议。不以盈利为目的。
 {% endhint %}
 
+#### 23/3/13
+
+[香港金管局3月下旬将举办两个金融监管界国际会议 议题包括加密货币未来发展等](https://www.jinse.com/lives/338630.html)
+
+[美联储3月加息50个基点概率降为0](https://www.jinse.com/lives/338619.html)
+
+[BTC短线突破22000美元](https://www.jinse.com/lives/338570.html)
+
+[USDC与DAI双双回升至0.98美元上方](https://www.jinse.com/lives/338572.html)
+
+[美联储：向银行、储蓄协会、信用合作社和其他合格的存款机构提供最长一年的贷款](https://www.jinse.com/lives/338573.html)
+
+[美联储：财政部将提供250亿美元紧急贷款支持，Signature银行已经关闭](https://www.jinse.com/lives/338569.html)
+
+里探评说：美联储加息，导致银行倒闭，美联储提供贷款救助银行。左右手互博的不高明操作。再一次宣告了以比特币为表达的去中心数字货币的必要性。
+
 #### 23/3/11
 
 [USDC现报价0.8859美元，24小时跌幅达11.5%](https://www.jinse.com/lives/338395.html)
