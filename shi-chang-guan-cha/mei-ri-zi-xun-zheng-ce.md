@@ -6,6 +6,10 @@
 内容摘自 [金色财经](https://www.jinse.com/)。个人投资学习笔记。非投资建议。不以盈利为目的。
 {% endhint %}
 
+#### 23/3/13
+
+[欧盟商户或被强制要求接受数字欧元](https://www.jinse.com/lives/338663.html)
+
 #### 23/3/9
 
 [俄罗斯联邦将加密矿工拒绝申报数字资产的行为定为犯罪](https://www.jinse.com/lives/338092.html)
